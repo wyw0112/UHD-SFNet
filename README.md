@@ -2,6 +2,6 @@
 
 ## U-Water100
 
-link：https://pan.baidu.com/s/1TcYgJA6P06dBewkjYrIrLA 
+link：https://pan.baidu.com/s/1okcnK8FsGSHbgHCfPCIjmw
 
-password：76ax
+password：g51d
