@@ -4,7 +4,6 @@ from torch import nn
 import torch.nn.functional as F
 from functools import partial
 from einops.layers.torch import Rearrange, Reduce
-from unet_model import UNet
 from arch_util import LayerNorm2d
 from torchvision import transforms
 from torchvision.utils import save_image
